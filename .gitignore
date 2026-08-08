@@ -1,0 +1,10 @@
+.env
+*token*
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+dist/
+build/
+*.log
